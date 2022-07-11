@@ -19,7 +19,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :telescope: I am a student of the Moscow Aviation Institute, studying to be a software developer.
 
-- :zap: In my free time, I study Python literature, take a course on deep learning from MIPT, and also develop telegram bots.
+- :zap: In my free time, I study Python literature, take a course on deep learning from MIPT. Currently I am studying machine learning, data analytics and python libraries such as numpy, pandas, scikit-learn..
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Szirx)
 
