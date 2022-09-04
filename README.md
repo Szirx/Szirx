@@ -13,11 +13,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a beginner in programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is not standing still in a question of professional development. I have been learning programming since i entered a university. I am a hard-worker and can work on a project for a long time to make it fully completed. I like working in a team, i am ready to help and give a piece of advices within my competence.
 
-- :telescope: I am a student of the Moscow Aviation Institute, studying to be a software developer.
-
-- :zap: In my free time, I study Python literature, take a course on deep learning from MIPT. Currently I am studying machine learning, data analytics and python libraries such as numpy, pandas, scikit-learn..
+Currently I have been developing in Data Science. I watch lots of Machine Learning lectures, read different articles related to this area. I have completed MIPT course of Machine Learning and Deep Learning. I have watched lectures by OpenDataScience course. I want to grow in such sections like Natural Language Processing and Recommendation System.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Szirx)
 
