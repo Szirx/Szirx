@@ -21,7 +21,6 @@ Currently I have been developing in Data Science. I watch lots of Machine Learni
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-   <img src="https://camo.githubusercontent.com/39daef268ef60029099b05ddbddd2e650b6fac69af9c753b927771d7754bae4b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" title="C++" alt="C++" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
