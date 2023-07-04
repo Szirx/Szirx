@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Szirx&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About Me :
-
-I am a beginner in programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is not standing still in a question of professional development. I have been learning programming since i entered a university. I am a hard-worker and can work on a project for a long time to make it fully completed. I like working in a team, i am ready to help and give a piece of advices within my competence.
-
-Currently I have been developing in Data Science. I watch lots of Machine Learning lectures, read different articles related to this area. I have completed MIPT course of Machine Learning and Deep Learning. I have watched lectures by OpenDataScience course. I want to grow in such sections like Natural Language Processing and Recommendation System.
-
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Szirx)
 
 ---
